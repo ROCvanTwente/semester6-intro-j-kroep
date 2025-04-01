@@ -2,7 +2,6 @@
 
 namespace Csharp_lib
 {
-    // gemaakt dooor: joshua
     // Subklasse Hond
     public class Hond : Dier
     {

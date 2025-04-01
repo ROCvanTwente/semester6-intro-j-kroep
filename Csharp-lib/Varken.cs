@@ -2,7 +2,6 @@
 
 namespace Csharp_lib
 {
-    // gemaakt dooor: joshua
     // Subklasse Varken
     public class Varken : Dier
     {

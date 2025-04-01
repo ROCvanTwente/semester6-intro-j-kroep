@@ -2,7 +2,6 @@
 
 namespace Csharp_lib
 {
-    // gemaakt dooor: joshua
     // Subklasse Kip
     public class Kip : Dier
     {

@@ -2,7 +2,6 @@
 
 namespace Csharp_lib
 {
-    // gemaakt dooor: joshua
     // Abstracte superklasse Dier
     public abstract class Dier
     {
